@@ -35,7 +35,7 @@ for (i = 0; i < baris; i++) {
         C[i]![j] = A[i]![j]! + B[i]![j]!;
         D[i]![j] = A[i]![j]! - B[i]![j]!;
     }
-}
+} // contoh bagus matriks
 
 console.log("Matrik A+B :");
 for (i = 0; i < baris; i++) {
